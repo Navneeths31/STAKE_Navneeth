@@ -1,0 +1,14 @@
+Test Results
+loss: 0.4437
+accuracy: 0.7596
+precision: 0.3519
+recall: 0.4404
+f1: 0.3912
+weighted_f1: 0.7697
+mae: 0.2874
+pooled_ap: 0.4312
+precision@9: 0.3519
+recall@9: 0.4449
+mate: 2.5185
+dtw: 39.7143
+----------------------------------------
