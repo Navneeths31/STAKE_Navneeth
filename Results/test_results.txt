@@ -1,0 +1,13 @@
+========== Final Test Results ==========
+Loss: 0.4614
+Accuracy: 0.7655
+Precision: 0.3333
+Recall: 0.4038
+F1-score: 0.3652
+Weighted F1: 0.7742
+MAE: 0.2535
+Pooled AP: 0.3223
+Precision@9: 0.3333
+Recall@9: 0.4139
+MATE: 2.8042
+DTW Distance: 35.8571
