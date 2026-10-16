@@ -1,0 +1,98 @@
+Epoch 1
+Loss: 0.4789
+Accuracy: 0.7329
+Precision: 0.2751
+Recall: 0.3562
+F1-score: 0.3104
+Weighted F1: 0.7460
+MAE: 0.3361
+Pooled AP: 0.2925
+Precision@9: 0.2751
+Recall@9: 0.3667
+MATE: 2.4921
+DTW: 46.9524
+----------------------------------------
+Epoch 2
+Loss: 0.4649
+Accuracy: 0.7353
+Precision: 0.2804
+Recall: 0.3630
+F1-score: 0.3164
+Weighted F1: 0.7482
+MAE: 0.3167
+Pooled AP: 0.2992
+Precision@9: 0.2804
+Recall@9: 0.3720
+MATE: 2.4709
+DTW: 45.4762
+----------------------------------------
+Epoch 3
+Loss: 0.4466
+Accuracy: 0.7329
+Precision: 0.2751
+Recall: 0.3562
+F1-score: 0.3104
+Weighted F1: 0.7460
+MAE: 0.2911
+Pooled AP: 0.3045
+Precision@9: 0.2751
+Recall@9: 0.3571
+MATE: 2.6984
+DTW: 37.9524
+----------------------------------------
+Epoch 4
+Loss: 0.4353
+Accuracy: 0.7561
+Precision: 0.3280
+Recall: 0.4247
+F1-score: 0.3701
+Weighted F1: 0.7680
+MAE: 0.2797
+Pooled AP: 0.3608
+Precision@9: 0.3280
+Recall@9: 0.4304
+MATE: 2.6243
+DTW: 32.0952
+----------------------------------------
+Epoch 5
+Loss: 0.4356
+Accuracy: 0.7746
+Precision: 0.3704
+Recall: 0.4795
+F1-score: 0.4179
+Weighted F1: 0.7856
+MAE: 0.2742
+Pooled AP: 0.3760
+Precision@9: 0.3704
+Recall@9: 0.4860
+MATE: 2.8148
+DTW: 32.4762
+----------------------------------------
+
+========== Final Validation Results ==========
+Loss: 0.4356
+Accuracy: 0.7746
+Precision: 0.3704
+Recall: 0.4795
+F1-score: 0.4179
+Weighted F1: 0.7856
+MAE: 0.2742
+Pooled AP: 0.3760
+Precision@9: 0.3704
+Recall@9: 0.4860
+MATE: 2.8148
+DTW Distance: 32.4762
+
+========== Final Test Results ==========
+Loss: 0.4425
+Accuracy: 0.7677
+Precision: 0.3386
+Recall: 0.4103
+F1-score: 0.3710
+Weighted F1: 0.7763
+MAE: 0.2732
+Pooled AP: 0.3565
+Precision@9: 0.3386
+Recall@9: 0.4180
+MATE: 2.7407
+DTW Distance: 33.3095
