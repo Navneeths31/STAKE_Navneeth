@@ -1,0 +1,28 @@
+Final Validation Results
+loss: 0.5894
+accuracy: 0.6955
+precision: 0.2381
+recall: 0.3125
+f1: 0.2703
+weighted_f1: 0.7106
+mae: 0.4307
+pooled_ap: 0.2488
+precision@9: 0.2381
+recall@9: 0.3253
+mate: 2.1640
+dtw: 38.8571
+----------------------------------------
+Final Test Results
+loss: 0.6065
+accuracy: 0.7224
+precision: 0.2672
+recall: 0.3344
+f1: 0.2971
+weighted_f1: 0.7341
+mae: 0.4418
+pooled_ap: 0.2673
+precision@9: 0.2672
+recall@9: 0.3407
+mate: 2.7831
+dtw: 43.6667
+----------------------------------------
