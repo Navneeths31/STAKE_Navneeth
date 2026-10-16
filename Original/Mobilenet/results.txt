@@ -1,0 +1,28 @@
+
+========== Final Validation Results ==========
+Loss: 0.4389
+Accuracy: 0.7514
+Precision: 0.3175
+Recall: 0.4110
+F1-score: 0.3582
+Weighted F1: 0.7636
+MAE: 0.2606
+Pooled AP: 0.3756
+Precision@9: 0.3175
+Recall@9: 0.4198
+MATE: 2.9524
+DTW Distance: 31.8095
+
+========== Final Test Results ==========
+Loss: 0.4399
+Accuracy: 0.7687
+Precision: 0.3413
+Recall: 0.4135
+F1-score: 0.3739
+Weighted F1: 0.7773
+MAE: 0.2677
+Pooled AP: 0.3685
+Precision@9: 0.3413
+Recall@9: 0.4268
+MATE: 3.1455
+DTW Distance: 35.5000
